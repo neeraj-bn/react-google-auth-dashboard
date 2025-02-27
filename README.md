@@ -67,9 +67,6 @@ This is a React-based web application built using **Chakra UI**, **Firebase (Goo
    npm start
    ```
 
-## Deliverables
-- **Source Code Repository** with proper commit history.
-- **Report on Component Structure & State Management Choices**.
 
 ## Live Demo
 Deployed URL: [Live Application](https://react-gauth-project.netlify.app/)
